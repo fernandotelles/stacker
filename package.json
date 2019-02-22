@@ -16,7 +16,7 @@
     "build": "GH_TOKEN=9fe73b6d02afe74e423b52192422fe2edf06fcaa node_modules/.bin/electron-builder"
   },
   "dependencies": {
-    "enqueuer": "^4.1.2",
+    "enqueuer": "^4.2.2",
     "request": "^2.88.0",
     "vue": "^2.5.17",
     "vue-prism-editor": "^0.1.2",
